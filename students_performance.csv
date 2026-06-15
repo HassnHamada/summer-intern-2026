@@ -1,0 +1,31 @@
+student_id,name,gender,age,department,gpa,study_hours_per_week,attendance_pct,extracurricular,scholarship,exam_score
+1,Ahmed Al-Mansour,Male,20,Computer Science,3.8,25,92,Yes,Yes,88
+2,Fatima Hassan,Female,21,Computer Science, 3.9,30,95,Yes,Yes,92
+3,Omar Khalil,Male,22,Engineering,3.2,18,78,No,No,75
+4,Sara Ibrahim,Female,20,Business,3.5,22,88,Yes,No,82
+5,Youssef Nasser,Male,23,Engineering,2.8,12,65,No,No,60
+6,Noor Al-Din,Female,21,Computer Science,3.7,28,90,Yes,Yes,86
+7,Khalid Rashid,Male,22,Business,3.0,15,72,No,No,68
+8,Layla Mahmoud,Female,20,Data Science,3.6,26,91,Yes,Yes,84
+9,Hassan Ali,Male,24,Engineering,2.5,10,58,No,No,55
+10,Maryam Saleh,Female,21,Data Science,3.8,29,93,Yes,Yes,90
+11,Tariq Jaber,Male,22,Computer Science,3.4,20,85,Yes,No,80
+12,Amina Yousef,Female,23,Business,3.1,16,76,No,No,70
+13,Rami Haddad,Male,20,Data Science,3.3,21,82,Yes,No,77
+14,Huda Barakat,Female,21,Engineering,3.6,24,89,Yes,Yes,85
+15,Ziad Taha,Male,23,Computer Science,2.9,14,70,No,No,65
+16,Dina Othman,Female,22,Business,3.7,27,92,Yes,Yes,87
+17,Faisal Qasim,Male,21,Data Science,3.5,23,86,Yes,No,81
+18,Rana Khoury,Female,20,Engineering,3.8,28,94,Yes,Yes,91
+19,Murad Shami,Male,24,Business,2.7,11,62,No,No,58
+20,Lina Darwish,Female,22,Computer Science,3.9,31,96,Yes,Yes,94
+21,Sami Abed,Male,21,Data Science,3.1,17,80,No,No,72
+22,Nadia Hammoud,Female,23,Engineering,3.4,22,84,Yes,No,79
+23,Ali Mustafa,Male,20,Business,3.3,19,81,Yes,No,76
+24,Reem Saad,Female,21,Computer Science,3.6,25,90,Yes,Yes,85
+25,Walid Farah,Male,22,Data Science,2.6,13,66,No,No,62
+26,Salma Najjar,Female,24,Engineering,3.5,24,87,Yes,No,83
+27,Hamza Rizk,Male,21,Business,3.0,16,73,No,No,69
+28,Jana Sabbagh,Female,20,Computer Science,3.7,27,91,Yes,Yes,88
+29,Karim Touma,Male,23,Data Science,3.2,20,83,Yes,No,78
+30,Yasmin Awad,Female,22,Engineering,3.9,30,95,Yes,Yes,93
